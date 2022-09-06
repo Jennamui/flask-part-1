@@ -1,12 +1,12 @@
 # flask-part-1
-App Deployed on GCP: 35.202.114.18
+App Deployed on GCP: http://35.202.114.18
 
-35.202.114.18/dashboard
+http://35.202.114.18/dashboard
 
-35.202.114.18/settings
+http://35.202.114.18/settings
 
-App Deployed on Azure: 20.14.88.15
+App Deployed on Azure: http://20.14.88.15
 
-20.14.88.15/dashboard
+http://20.14.88.15/dashboard
 
-20.14.88.15/settings
+http://20.14.88.15/settings
