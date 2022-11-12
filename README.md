@@ -27,8 +27,10 @@ Steps for Deploying App:
 
 7. cd flask-part-1
 
-8. Suspend:crtl+z
+8. sudo python3 app.py
 
-9. Restart in background: bg
+9. Suspend:crtl+z
 
-10. Keep app running after closing terminal: sudo nohup python3 app.py > log.txt 2>&1 &
+10. Restart in background: bg
+
+11. Keep app running after closing terminal: sudo nohup python3 app.py > log.txt 2>&1 &
